@@ -53,7 +53,7 @@
     "imagemin-gifsicle": "^5.0.0",
     "imagemin-jpegtran": "^5.0.0",
     "imagemin-optipng": "^5.1.0",
-    "imagemin-svgo": "^5.1.0"
+    "imagemin-svgo": "5.2.0"
   },
   "xo": {
     "esnext": true
